@@ -10,3 +10,4 @@ First sail test of Bobalong, only used RC, strong winds, rudder not secure preve
 3rd April 2014
 -----------------
 First sail test in the harbour, only used RC, hardly any wind, rescued by Colin, flooding through sail servo when being rescued after being submerged
+GPS Map: http://www.gpsvisualizer.com/display/20140403090200-16033-map.html
